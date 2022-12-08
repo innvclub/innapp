@@ -16,7 +16,7 @@
     <application
             android:label="Carnaval"
             android:name="${applicationName}"
-            android:screenOrientation="unspecified"
+            android:screenOrientation="landscape"
             android:icon="@mipmap/ic_launcher">
         <provider
                 android:name="androidx.core.content.FileProvider"
